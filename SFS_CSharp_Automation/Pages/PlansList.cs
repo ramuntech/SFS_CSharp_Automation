@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SFS_CSharp_Automation.Pages
 {
-    class PlansCreation
+    class PlansList
     {
     }
 }
